@@ -20,9 +20,9 @@ This notebook demonstrates the creation of a Deep Neural Network (DNN) for build
  
 ## How to Use
 1. Clone the repository to your local machine or open the individual Google Colab notebooks for execution:
-'''bash
+```bash
 git clone https://github.com/matija13795/Predictive-Analytics
-'''
+```
 2. Each file contains a Jupyter Notebook for the respective technique. Open the notebooks in Google Colab or your preferred Jupyter environment.
 3. Follow the markdown cells for explanations and a breakdown of the methods used.
 

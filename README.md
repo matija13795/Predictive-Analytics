@@ -8,7 +8,7 @@ This repository contains the following notebooks:
 - PCA + Clustering\
 In this notebook, I perform clustering analysis on nightclub customers based on their perceptions of pricing fairness, intent to revisit, and demographic variables. The goal is to identify distinct customer segments that can provide valuable insights into customer behavior. The notebook includes:
   - Data Preprocessing: Handling missing values, normalizing variables, and encoding categorical variables.
-  - Clustering: Experimentation with different clustering methods, such as K-Means, to group customers into segments.
+  - Clustering: Experimentation with different clustering methods, K-Means and Hierarchical Clustering, to group customers into segments.
   - Interpretation & Insights: Analyzing the clusters to understand key traits and provide actionable insights to nightclub management, such as tailoring pricing strategies to different customer segments.
 
 - DNN for Recommender System\
@@ -20,9 +20,8 @@ This notebook demonstrates the creation of a Deep Neural Network (DNN) for build
  
 ## How to Use
 1. Clone the repository to your local machine or open the individual Google Colab notebooks for execution:
-'''
-bash
-git clone https://github.com/your-username/Predictive-Analytics.git
+'''bash
+git clone https://github.com/matija13795/Predictive-Analytics
 '''
 2. Each file contains a Jupyter Notebook for the respective technique. Open the notebooks in Google Colab or your preferred Jupyter environment.
 3. Follow the markdown cells for explanations and a breakdown of the methods used.

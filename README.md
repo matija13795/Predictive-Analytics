@@ -9,7 +9,7 @@ This repository contains the following notebooks:
 In this notebook, I perform clustering analysis on nightclub customers based on their perceptions of pricing fairness, intent to revisit, and demographic variables. The goal is to identify distinct customer segments that can provide valuable insights into customer behavior. The notebook includes:
   - Data Preprocessing: Handling missing values, normalizing variables, and encoding categorical variables.
   - Clustering: Experimentation with different clustering methods, K-Means and Hierarchical Clustering, to group customers into segments.
-  - Interpretation & Insights: Analyzing the clusters to understand key traits and provide actionable insights to nightclub management, such as tailoring pricing strategies to different customer segments.
+  - Interpretation & Insights: Analyzing the clusters to understand key traits and provide actionable insights to nightclub management, such as tailoring pricing strategies to different customer segments. The interpretation and insights are contained in the report.pdf
 
 - DNN for Recommender System\
 This notebook demonstrates the creation of a Deep Neural Network (DNN) for building a recommendation system using the MovieLens 100k dataset. The goal is to predict movie ratings for a given user based on their previous ratings. The notebook includes:
